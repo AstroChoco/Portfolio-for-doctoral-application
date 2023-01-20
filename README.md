@@ -6,7 +6,17 @@ To see my past healthcare-related projects, please see [my online portfolio in F
 
 ## Supporting documents for my portfolio
 In the portfolio, there are 4 case studies. To see complete reports about the cases, please read the following documents:
-- [Case 1: Feasibility Study of a "Smart" Aid for the Visually Impaired and Blind's Independent Mobility in Outdoor Environments]
-- [Case 2: Investigating Existing Support Tools for the Visually Impaired]
-- [Case 3: HOPE - A serious game to engage chronic disease patients in medical research]
-- [Case 4: IT Tools for Memory Support]
+- [Case 1: Feasibility Study of a "Smart" Aid for the Visually Impaired and Blind's Independent Mobility in Outdoor Environments](Supporting-document-Case-1-masterThesis-Feasibility-Study-of-Smart-Navigation-Aid.pdf)
+- [Case 2: Investigating Existing Support Tools for the Visually Impaired](Supporting-document-Case-2-Investigating-Existing-Navigation-Aids-for-Vision-Loss.pdf)
+- [Case 3: HOPE - A serious game to engage chronic disease patients in medical research](Supporting-document-Case-3-Serious-Game-Design-for-Patient-Engagement.pdf)
+- [Case 4: IT Tools for Memory Support](Supporting-document-Case-4-IT-Tools-for-Memory-Support.pdf)
+
+## Problems with reading PDFs in GitHub?
+As the supporting documents are in PDF, GitHub sometimes fails to render it.
+
+If you see the following error message, refresh your page for GitHub to render the PDF again:
+
+```
+Unable to render rich display
+```
+
