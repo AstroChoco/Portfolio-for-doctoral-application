@@ -11,7 +11,7 @@ In the portfolio, there are 4 case studies. To see complete study reports about 
 - [Case 3: HOPE - A serious game to engage chronic disease patients in medical research](Supporting-document-Case-3-Serious-Game-Design-for-Patient-Engagement.pdf)
 - [Case 4: IT Tools for Memory Support](Supporting-document-Case-4-IT-Tools-for-Memory-Support.pdf)
 
-## Problems with reading PDFs in GitHub?
+## Problems with reading PDF in GitHub?
 As the supporting documents are in PDF, GitHub sometimes fails to render it.
 
 If you see the following error message, refresh your page for GitHub to render the PDF again:
