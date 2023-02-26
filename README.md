@@ -1,5 +1,5 @@
-# Portfolio for my application to HOMEDEM 
-This repository is intended to show my portfolio and its supporting documents for my application to [HOMEDEM](https://www.homedem.eu/).
+# Portfolio for my PhD application 
+This repository is intended to show my portfolio and its supporting documents for my PhD application.
 
 ## My portfolio
 To see my past healthcare-related projects, please see [my online portfolio in Figma](https://www.figma.com/proto/DZx9Oq0oiyLvDMciGkhWD1/Qian's-portfolio?node-id=50%3A82&scaling=scale-down&page-id=6%3A63&starting-point-node-id=50%3A82).
